@@ -10,7 +10,7 @@ Repo de materiales y proyectos de la asignatura **IDSW2** del [Grado de Ingenier
   - [Ejercicios](temario/ejercicios/README.md)
 - Evaluaciones
   - Evaluación continua: [Retos!](evaluaciones/retos/README.md)
-  - [SdVC](https://github.com/mmasias/25-26-idsw2-sdVC)
+  - [SdVC](evaluaciones/SdVc.md) - [Repo](https://github.com/mmasias/25-26-idsw2-sdVC)
   - Exámenes
     - Parcial: [Enunciado](evaluaciones/examenes/examenParcial/README.md) | Repositorio de trabajo y entrega.
     - Final: [Enunciado](evaluaciones/examenes/examenFinal/README.md) | Repositorio de trabajo y entrega.
